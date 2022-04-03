@@ -1,0 +1,30 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: darkorchid;
+}
+
+.relogio{
+    
+    
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.display{
+
+  background-color: purple;
+  width: 350px;
+  height: 200px;
+  text-align: center;
+  line-height: 200px;
+  border-radius: 20px;
+  color: white;
+  font-size: 80px;
+  border: 10px solid aqua;
+
+
+}
